@@ -1,4 +1,4 @@
-# eldarion-ajax
+# atb-ajax
 
 This is a plugin that Eldarion uses for all of its AJAX work.
 
@@ -26,10 +26,10 @@ is also online at http://uk013.gondor.co/
 jQuery is required for this library so make sure it is included somewhere on the
 page prior to the inclusion of ``eldarion-ajax.min.js``.
 
-Copy ```js/eldarion-ajax.min.js``` to where you keep your web sites static 
+Copy ```js/atb-ajax.min.js``` to where you keep your web sites static 
 media and the include them in your HTML:
 
-    <script src="/js/eldarion-ajax.js"></script>
+    <script src="/js/atb-ajax.js"></script>
 
 
 ## Actions
